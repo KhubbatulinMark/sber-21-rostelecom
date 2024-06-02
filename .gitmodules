@@ -1,3 +1,6 @@
 [submodule "DSpy00.ID_1421591"]
 	path = DSpy00.ID_1421591
 	url = ssh://git@repos-ssh.21-school.ru:2289/masters/DSpy00.ID_1421591.git
+[submodule "DSpy01.ID_1421593"]
+	path = DSpy01.ID_1421593
+	url = ssh://git@repos-ssh.21-school.ru:2289/masters/DSpy01.ID_1421593.git
