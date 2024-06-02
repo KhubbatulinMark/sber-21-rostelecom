@@ -3,7 +3,9 @@
 Материалы для курса по введению в анализ данных для "Ростелеком".
 
 ## Datasets
-Данные от "Ростелекома" лежат [тут](https://drive.google.com/drive/folders/1RCjekFXF0Vh1yb3cahKR8n-q7R6k3RXY) 
+Данные от "Ростелекома" лежат [тут](https://drive.google.com/drive/folders/1RCjekFXF0Vh1yb3cahKR8n-q7R6k3RXY).
+
+[Датасеты для интенсива](https://disk.yandex.ru/client/disk/rostelecom-sber21)
 
     ├── raw                             <- Сырые, предоставленные данные от Ростелекома
     │   └── attribute.xlsx              <- Словарь атрибутов (Упрощенная версия для использования)
