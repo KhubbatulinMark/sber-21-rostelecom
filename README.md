@@ -39,6 +39,9 @@
 ## Сопроводительные материалы
 Вместе с данными предоставили [ноутбук](scripts/main.ipynb) с обучением модели оттока. Из полезного там есть ликующие признаки.
 
+Задизайненные презентации [тут](https://drive.google.com/drive/folders/1ZqAgURM4zaH1OdVZ2QgNjxGx5Nosq5Ma?usp=drive_link)
+
+
 ## Projects
 Legend: ![](icons/pptx.png) — lection, ![](icons/jupyter.png) — solution,  ![](icons/git.png) — repo
 
