@@ -16,3 +16,12 @@
 [submodule "repositories/colab/DSpy00.ID_1517611"]
 	path = repositories/colab/DSpy00.ID_1517611
 	url = ssh://git@repos-ssh.21-school.ru:2289/masters/DSpy00.ID_1517611.git
+[submodule "repositories/colab/DSpy02.ID_1517613"]
+	path = repositories/colab/DSpy02.ID_1517613
+	url = ssh://git@repos-ssh.21-school.ru:2289/masters/DSpy02.ID_1517613.git
+[submodule "repositories/colab/DSpy03.ID_1517614"]
+	path = repositories/colab/DSpy03.ID_1517614
+	url = ssh://git@repos-ssh.21-school.ru:2289/masters/DSpy03.ID_1517614.git
+[submodule "repositories/colab/DSpy04.ID_1517723"]
+	path = repositories/colab/DSpy04.ID_1517723
+	url = ssh://git@repos-ssh.21-school.ru:2289/masters/DSpy04.ID_1517723.git

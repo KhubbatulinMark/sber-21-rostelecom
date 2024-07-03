@@ -77,28 +77,38 @@ Legend: ![](icons/pptx.png) — lection, ![](icons/jupyter.png) — solution,  !
   <tbody>
     <!-------------------- DAY 1 -------------------->
     <tr>
-      <td align="center"><a>1</a></td>
-      <td align="center">
-        Дескриптивный анализ. Описательный статистики. Разведочный анализ. Корреляционный анализ.
-        АБ тестирование. Применение Теоремы Байеса.
-    </td>
-      <td align="center">
-        <a href="ssh://git@repos-ssh.21-school.ru:2289/masters/DSpy01.ID_1421593.git"><img src="./icons/git.png"/></a>
-        <a href="./lections/01-01-eda.pptx"><img src="./icons/pptx.png"/></a>
-      </td>
+        <td align="center"><a>1</a></td>
+        <td align="center">
+            Дескриптивный анализ. Описательный статистики. Разведочный анализ. Корреляционный анализ.
+            АБ тестирование. Применение Теоремы Байеса.
+        </td>
+        <td align="center">
+            <a href="https://repos.21-school.ru/masters/DSpy01.ID_1421593"><img src="./icons/git.png"/></a>
+        </td>
+        <td align="center">
+            <a href="https://repos.21-school.ru/masters/DSpy01.ID_1517612"><img src="./icons/git.png"/></a>
+        </td>
+        <td align="center">
+            <a href="./lections/01-01-eda.pptx"><img src="./icons/pptx.png"/></a>
+        </td>
     </tr>
   </tbody>
   <tbody>
     <!-------------------- DAY 2 -------------------->
     <tr>
-      <td align="center"><a>2</a></td>
-      <td align="center">
-        История машинного обучения. Постановка задачи. Black-Box концепция. 
-    </td>
-      <td align="center">
-        <a href="https://repos.21-school.ru/masters/DSpy02.ID_1421592.git"><img src="./icons/git.png"/></a>
-        <a href="./lections/02-01-ml-intro.pptx"><img src="./icons/pptx.png"/></a>
-      </td>
+        <td align="center"><a>2</a></td>
+        <td align="center">
+            История машинного обучения. Постановка задачи. Black-Box концепция. 
+        </td>
+        <td align="center">
+            <a href="https://repos.21-school.ru/masters/DSpy02.ID_1421592.git"><img src="./icons/git.png"/></a>
+        </td>
+        <td align="center">
+            <a href="https://repos.21-school.ru/masters/DSpy02.ID_1517613"><img src="./icons/git.png"/></a>
+        </td>
+        <td align="center">
+            <a href="./lections/02-01-ml-intro.pptx"><img src="./icons/pptx.png"/></a>
+        </td>
     </tr>
   </tbody>
   <tbody>
@@ -110,14 +120,11 @@ Legend: ![](icons/pptx.png) — lection, ![](icons/jupyter.png) — solution,  !
         </td>
         <td align="center">
             <a href="https://repos.21-school.ru/masters/DSpy03.ID_1421594.git"><img src="./icons/git.png"/></a>
-            <a href="./lections/03-01-deep-learning.pptx"><img src="./icons/pptx.png"/></a>
         </td>
         <td align="center">
-            <a href="https://repos.21-school.ru/masters/DSpy03.ID_1421594.git"><img src="./icons/git.png"/></a>
-            <a href="./lections/03-01-deep-learning.pptx"><img src="./icons/pptx.png"/></a>
+            <a href="https://repos.21-school.ru/masters/DSpy03.ID_1517614.git"><img src="./icons/git.png"/></a>
         </td>
         <td align="center">
-            <a href="https://repos.21-school.ru/masters/DSpy03.ID_1421594.git"><img src="./icons/git.png"/></a>
             <a href="./lections/03-01-deep-learning.pptx"><img src="./icons/pptx.png"/></a>
         </td>
     </tr>
@@ -125,13 +132,18 @@ Legend: ![](icons/pptx.png) — lection, ![](icons/jupyter.png) — solution,  !
   <tbody>
     <!-------------------- DAY 4 -------------------->
     <tr>
-      <td align="center"><a>4</a></td>
-      <td align="center">
-         Внедрение искусственного интеллекта в бизнес процессы
-    </td>
-      <td align="center">
-        <a href="https://repos.21-school.ru/masters/DSpy04.ID_1421595.git"><img src="./icons/git.png"/></a>
-      </td>
+        <td align="center"><a>4</a></td>
+        <td align="center">
+            Внедрение искусственного интеллекта в бизнес процессы
+        </td>
+        <td align="center">
+            <a href="https://repos.21-school.ru/masters/DSpy04.ID_1421595.git"><img src="./icons/git.png"/></a>
+        </td>
+        <td align="center">
+            <a href="https://repos.21-school.ru/masters/DSpy04.ID_1517723.git"><img src="./icons/git.png"/></a>
+        </td>
+        <td align="center">
+        </td>
     </tr>
   </tbody>
 </table>
