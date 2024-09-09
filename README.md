@@ -63,7 +63,7 @@ Legend: ![](icons/pptx.png) — lection, ![](icons/jupyter.png) — solution,  !
             Введение в анализ данных. Кто такой DS и чем он занимается. Хранение данных. Виды данных
         </td>
         <td align="center">
-            <a href="https://repos.21-school.ru/masters/DSpy00.ID_1421591.git"><img src="./icons/git.png"/></a>
+            <a href="https://repos.21-school.ru/masters/DSpy00.ID_1517554.git"><img src="./icons/git.png"/></a>
         </td>
         <td align="center">
             <a href="https://repos.21-school.ru/masters/DSpy00.ID_1517611.git"><img src="./icons/git.png"/></a>
@@ -83,7 +83,7 @@ Legend: ![](icons/pptx.png) — lection, ![](icons/jupyter.png) — solution,  !
             АБ тестирование. Применение Теоремы Байеса.
         </td>
         <td align="center">
-            <a href="https://repos.21-school.ru/masters/DSpy01.ID_1421593"><img src="./icons/git.png"/></a>
+            <a href="https://repos.21-school.ru/masters/DSpy01.ID_1517555"><img src="./icons/git.png"/></a>
         </td>
         <td align="center">
             <a href="https://repos.21-school.ru/masters/DSpy01.ID_1517612"><img src="./icons/git.png"/></a>
@@ -101,7 +101,7 @@ Legend: ![](icons/pptx.png) — lection, ![](icons/jupyter.png) — solution,  !
             История машинного обучения. Постановка задачи. Black-Box концепция. 
         </td>
         <td align="center">
-            <a href="https://repos.21-school.ru/masters/DSpy02.ID_1421592.git"><img src="./icons/git.png"/></a>
+            <a href="https://repos.21-school.ru/masters/DSpy02.ID_1517561.git"><img src="./icons/git.png"/></a>
         </td>
         <td align="center">
             <a href="https://repos.21-school.ru/masters/DSpy02.ID_1517613"><img src="./icons/git.png"/></a>
@@ -119,7 +119,7 @@ Legend: ![](icons/pptx.png) — lection, ![](icons/jupyter.png) — solution,  !
             Глубокое обучение
         </td>
         <td align="center">
-            <a href="https://repos.21-school.ru/masters/DSpy03.ID_1421594.git"><img src="./icons/git.png"/></a>
+            <a href="https://repos.21-school.ru/masters/DSpy03.ID_1517562.git"><img src="./icons/git.png"/></a>
         </td>
         <td align="center">
             <a href="https://repos.21-school.ru/masters/DSpy03.ID_1517614.git"><img src="./icons/git.png"/></a>
@@ -137,7 +137,7 @@ Legend: ![](icons/pptx.png) — lection, ![](icons/jupyter.png) — solution,  !
             Внедрение искусственного интеллекта в бизнес процессы
         </td>
         <td align="center">
-            <a href="https://repos.21-school.ru/masters/DSpy04.ID_1421595.git"><img src="./icons/git.png"/></a>
+            <a href="https://repos.21-school.ru/masters/DSpy04.ID_1517563.git"><img src="./icons/git.png"/></a>
         </td>
         <td align="center">
             <a href="https://repos.21-school.ru/masters/DSpy04.ID_1517723.git"><img src="./icons/git.png"/></a>
