@@ -13,9 +13,13 @@
 [submodule "repositories/jupyter/DSpy04.ID_1421595"]
 	path = repositories/jupyter/DSpy04.ID_1421595
 	url = ssh://git@repos-ssh.21-school.ru:2289/masters/DSpy04.ID_1421595.git
+
 [submodule "repositories/colab/DSpy00.ID_1517611"]
 	path = repositories/colab/DSpy00.ID_1517611
 	url = ssh://git@repos-ssh.21-school.ru:2289/masters/DSpy00.ID_1517611.git
+[submodule "repositories/colab/DSpy01.ID_1517612"]
+	path = repositories/colab/DSpy01.ID_1517612
+	url = ssh://git@repos-ssh.21-school.ru:2289/masters/DSpy01.ID_1517612.git
 [submodule "repositories/colab/DSpy02.ID_1517613"]
 	path = repositories/colab/DSpy02.ID_1517613
 	url = ssh://git@repos-ssh.21-school.ru:2289/masters/DSpy02.ID_1517613.git
